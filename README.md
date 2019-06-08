@@ -1,2 +1,2 @@
 # Machine-Learning-Notes
-Python ML notes
+Python notes based on Microsoft's Machine Learning course
